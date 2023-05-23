@@ -1,6 +1,6 @@
-### Filipe Rocha
+### Filipe Rocha 💻🖱
 
-###### ✔️ Atualmente estou cursando Sistemas de Informação e espero em breve poder estar colaborando com o crescimento de alguma empresas,através dos conhecimentos adiquiridos.
+###### ✔️ Atualmente estou cursando Sistemas de Informação e espero em breve poder estar colaborando com o crescimento de alguma empresa através dos conhecimentos adiquiridos na área computacional.
 
 ###### ✔️ Gosto de ser proativo e exercer minhas obrigações com responsabilidade e organização.
 <!--
