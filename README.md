@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Filipe Rocha
+✔️Atualmente estou cursando Sistemas de Informação e espero em breve poder estar colaborando com o crescimento de alguma empresas,através dos conhecimentos adiquiridos.
+✔️ Gosto de ser proativo e exercer minhas obrigações com responsabilidade e organização.
 <!--
 **Filipevrocha/Filipevrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
